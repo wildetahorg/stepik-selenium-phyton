@@ -8,7 +8,7 @@ from selenium import webdriver
 def CalculatePredefined(x):
   return str(math.log(abs(12*math.sin(int(x)))))
 
-browser = webdriver.Chrome()#browser should wait every element 5s checking it appearing every 500ms
+browser = webdriver.Chrome()
 
 try:
     browser.get("http://suninjuly.github.io/explicit_wait2.html")
