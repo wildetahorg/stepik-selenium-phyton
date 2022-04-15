@@ -34,3 +34,12 @@ JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: Refere
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1649970236134	geckodriver	INFO	Listening on 127.0.0.1:61478
+1649970239223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\WILDET~1\\AppData\\Local\\Temp\\rust_mozprofileIoyDxo"
+1649970239517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\WILDET~1\\AppData\\Local\\Temp\\rust_mozprofileIoyDxo\\search.json.mozlz4", (void 0)))
+1649970241190	Marionette	INFO	Listening on port 61503
+Read port: 61503
+1649970241223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/es/, line 374: ReferenceError: oscar is not defined
+1649970242550	Marionette	INFO	Stopped listening on port 61503
